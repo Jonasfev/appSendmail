@@ -1,7 +1,7 @@
 # appSendmail
 
 ## Sobre
-* App projetado únicamente para enviar emails.
+* App projetado como atividade no curso de desenvolvimento de sistemas com o unico intuito de enviar emails.
 * Desenvolvido em php.
 
 
